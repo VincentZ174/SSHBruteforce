@@ -8,7 +8,7 @@ Simple bruteforcer for SSH using dictionary attack built using Python
 # Usage  
 python SSHBrute.py [host] [username] [passwordfile]
 
-# Help  
+# Help    
 usage: SSHBrute.py [-h] host username file  
 
   positional arguments:   
