@@ -11,7 +11,7 @@ python SSHBrute.py [host] [username] [passwordfile]
 # Help  
 usage: SSHBrute.py [-h] host username file  
 
-positional arguments:   
+  positional arguments:   
 	host        Please specifiy Target Host  
 	username    Specify Target Username  
 	file        Specify Password File  
