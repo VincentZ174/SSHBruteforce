@@ -1,2 +1,5 @@
-# SSHBruteforce
-Simple bruteforcer for SSH built using Python
+# SSHBruteforce  
+Simple bruteforcer for SSH using dictionary attack built using Python  
+
+# Requirements  
+- 
